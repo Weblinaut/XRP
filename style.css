@@ -1,8 +1,19 @@
+body {
+    background-image: url("./assets/images/money.jpg");
+}
 .xrp-price {
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: mintcream;
+    font-size: large;
     color: black;
     transition: all 2000ms ease;
 }
 .highlight {
     color: tomato;
     transition: all 2000ms ease;
+}
+.container {
+    opacity: 0.8;
+    margin-top: 80px;
 }
