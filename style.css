@@ -1,5 +1,6 @@
 body {
     background-image: url("./assets/images/money.jpg");
+    background-repeat: no-repeat;
 }
 .xrp-price {
     margin-left: 0px;
