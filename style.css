@@ -1,11 +1,13 @@
 body {
     background-image: url("./assets/images/money.jpg");
     background-repeat: no-repeat;
+
+
 }
 .xrp-price {
     margin-left: 0px;
     margin-right: 0px;
-
+    font-family: 'Forum', cursive;
     font-size: large;
     color: black;
     transition: all 2000ms ease;
